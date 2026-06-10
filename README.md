@@ -1,8 +1,15 @@
-# Hi, I'm Abhijith S Kurup 👋
 
-**AI/ML Engineer · Deep Learning · Computer Vision · Generative AI**
-
-B.Tech CSE (AI & ML Specialisation) · College of Engineering, Kottarakkara · Graduating April 2026
+<h1 align="center">Hi, I'm Abhijith S Kurup</h1>
+<h3 align="center">AI/ML Engineer · Deep Learning · Computer Vision · Generative AI</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://doi.org/10.17148/IJARCCE.2026.15372">
+    <img src="https://img.shields.io/badge/Published_Paper-DOI-blue?style=flat"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AbhijithSK&label=Profile+views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
@@ -18,20 +25,28 @@ I build end-to-end AI systems — from training deep learning models to deployin
 
 ---
 
-### Tech stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijithSK&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijithSK&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithSK&layout=compact&hide_border=true" width="40%"/>
+</p>
 
 ### Featured projects
 
